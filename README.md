@@ -27,7 +27,8 @@ H1: μ > 4000
 
 This is the formulas for t-test
 <br/>
-$t = \frac{\bar{X} - \mu_0}{\sigma / \sqrt{N}}$
+$t = \frac{\bar{X} - \mu}{\sigma / \sqrt{N}}$
+<br/>
 X̄ = sample mean weekly cost = Rs. 3,050
 <br/>
 μ = theoretical mean weekly cost according to the cost model (W = $1,000 + $5X for X = 600 units)
@@ -44,7 +45,8 @@ Calculate the mean for theoretical cost
 
 Compute the t-test
 <br/>
-
+$t = \frac{\3050 - \4000}{\5x25 / \sqrt25}$
+<br/>
 ### Determine the Critical Value
 
 Using an alpha level of 5% (𝛼=0.05) for a one-tailed test, we can determine the critical value from the standard normal (Z) distribution table.
