@@ -1,4 +1,4 @@
-# $${\color{red}<h1 align="center">**Bombay Hospitality Cost Analysis**$$
+# <h1 align="center">**Bombay Hospitality Cost Analysis**
 To investigate restaurant owner claim about increase in weekly operating costs
 
 # <h1 align="center"><font color='green'>**HYPOTHESIS TESTING**</font></h1>
