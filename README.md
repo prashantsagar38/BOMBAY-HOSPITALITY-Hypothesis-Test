@@ -45,7 +45,7 @@ Calculate the mean for theoretical cost
 
 Compute the t-test
 <br/>
-$t = \frac{\3050 - \4000}{\5x25 / \sqrt25}$
+$t = \frac{3050 - 4000}{5x25 / \sqrt25}$
 <br/>
 ### Determine the Critical Value
 
