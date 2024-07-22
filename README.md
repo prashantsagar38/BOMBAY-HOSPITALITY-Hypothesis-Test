@@ -1,4 +1,4 @@
-# BOMBAY-HOSPITALITY-Hypothesis-Test
+# <h1 align="center"><font color='green'>**Bombay Hospitality Cost Analysis**</font></h1>
 To investigate restaurant owner claim about increase in weekly operating costs
 
 # <h1 align="center"><font color='green'>**HYPOTHESIS TESTING**</font></h1>
